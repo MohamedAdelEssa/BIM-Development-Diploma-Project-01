@@ -1,13 +1,7 @@
 # BIM Development Diploma | Project 01 : Assignment Solver
 This Project was for better understanding the C# Fundamentals under the instruction of Eng. Mostafa Emad It is basically a solver for the three parts of assignment 2
-using System;
 
-namespace Assignment_No._2
-{
-    class Program
-    {
-        static void Main(string[] args)
-        {
+
             #region solvernavigator
             Console.WriteLine("Welcome To BIM Software Diploma | Assignment No.2 Solver");
             Console.WriteLine("Please Press Enter to Start");
